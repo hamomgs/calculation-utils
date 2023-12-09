@@ -110,7 +110,7 @@ public class Main {
 }
 ```
 
-Para mais detalhes e exemplos, consulte a [Documentação](#).
+Para mais detalhes e exemplos, consulte a [Documentação](https://hamomgs.notion.site/Home-6a8cec60c268489cacac84afe61c6b6d?pvs=4).
 
 ## 🛠️ Tecnologias
 

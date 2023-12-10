@@ -118,7 +118,23 @@ Para mais detalhes e exemplos, consulte a [Documentação](https://hamomgs.notio
 | ------------- | ------- |
 | [Java SE](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html) | JDK 17.0.9 |
 
-## 🧑‍🏫 Instrutores
+## 💚 Agradecimentos
+
+> Referências, fontes, ferramentas e recursos utilizados não só na biblioteca, mas também na [Documentação](https://hamomgs.notion.site/Home-6a8cec60c268489cacac84afe61c6b6d?pvs=4) do desafio.
+
+- [Documentação Classe Math](https://docs.oracle.com/javase/8/docs/api/java/lang/Math.html)
+- [W3Schools](https://www.w3schools.com/java/default.asp)
+- [Mundo Escola](https://mundoeducacao.uol.com.br/)
+- [Brasil Escola](https://brasilescola.uol.com.br/)
+- [Notion](https://notion.so)
+- [Canva](https://www.canva.com/)
+- [FlatIcon](https://www.flaticon.com/)
+
+## 📃 Licença
+
+Esse projeto esta sob a licença [MIT](https://github.com/hamomgs/calculation-utils/blob/main/LICENCE).
+
+## 🧑‍🏫 Instrutor e Facilitador
 
 <table>
   <tr>
@@ -126,10 +142,6 @@ Para mais detalhes e exemplos, consulte a [Documentação](https://hamomgs.notio
     <td align="center"><a href="https://www.linkedin.com/in/leno-rafael-85a2ab1ba/"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/73203800?v=4" width="100px;" alt=""/><br /><sub><b>Leno Rafael</b></sub></a><br /><a href="https://github.com/lenors" title="Leno Rafael">🧑‍🏫</a></td>
   </tr>
 </table>
-
-## Licença
-
-Esse projeto esta sob a licença [MIT](https://github.com/hamomgs/calculation-utils/blob/main/LICENCE).
 
 ## 🧙‍♂️ Autor
 

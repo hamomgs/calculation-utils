@@ -110,6 +110,12 @@ public class Main {
 
 Para mais detalhes e exemplos, consulte a [Documentação](https://hamomgs.notion.site/Home-6a8cec60c268489cacac84afe61c6b6d?pvs=4).
 
+## 🎯 Possíveis Melhorias
+
+- [ ] Implementar outras operações aritméticas.
+- [ ] Refatorar e organizar métodos em diferentes classes. Exemplos de classes: Financas, CalculosGeometricos, OperacoesBasicas, etc.
+- [ ] Adicionar mais validações de entrada e mensagens de erro.
+
 ## 🛠️ Tecnologias
 
 | Tecnologia  | Versão |

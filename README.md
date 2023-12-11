@@ -1,8 +1,6 @@
 ![banner](https://i.postimg.cc/kgqnr1Z1/banner-desafio2-vnw.png)
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/hamomgs/calculation-utils?color=%2304D361" />
-
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/hamomgs/calculation-utils" />
   
   <a href="https://github.com/hamomgs/calculation-utils/commits/main">

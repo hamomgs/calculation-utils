@@ -9,7 +9,7 @@
   
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen" />
 
-  <a href="https://cubos.academy/">
+  <a href="https://www.linkedin.com/in/hamomgs/">
     <img alt="Feito por Hamom Silva" src="https://img.shields.io/badge/feito-por%20Hamom%20Silva-2c938c">
   </a>
 </p>
@@ -116,6 +116,22 @@ Para mais detalhes e exemplos, consulte a [Documentação](https://hamomgs.notio
 | ------------- | ------- |
 | [Java SE](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html) | JDK 17.0.9 |
 
+## 🧑‍🏫 Instrutor e Facilitador
+
+<table>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/samuel-silveriom/"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/103957897?v=4" width="100px;" alt=""/><br /><sub><b>Samuel Silvério</b></sub></a><br /><a href="https://github.com/Samuel-prata" title="Samuel Silvério">🧑‍🏫</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/leno-rafael-85a2ab1ba/"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/73203800?v=4" width="100px;" alt=""/><br /><sub><b>Leno Rafael</b></sub></a><br /><a href="https://github.com/lenors" title="Leno Rafael">🧑‍🏫</a></td>
+  </tr>
+</table>
+
+## 🤝  Como Contribuir
+
+1. Faça um fork do projeto.
+2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
+3. Salve as alterações e crie uma mensagem de commit contanto o que você fez: `git commit -m "feature: My new feature"`
+4. Envie as alterações: `git push origin my-feature`
+
 ## 💚 Agradecimentos
 
 > Referências, fontes, ferramentas e recursos utilizados não só na biblioteca, mas também na [Documentação](https://hamomgs.notion.site/Home-6a8cec60c268489cacac84afe61c6b6d?pvs=4) do desafio.
@@ -127,19 +143,6 @@ Para mais detalhes e exemplos, consulte a [Documentação](https://hamomgs.notio
 - [Notion](https://notion.so)
 - [Canva](https://www.canva.com/)
 - [FlatIcon](https://www.flaticon.com/)
-
-## 📃 Licença
-
-Esse projeto esta sob a licença [MIT](https://github.com/hamomgs/calculation-utils/blob/main/LICENCE).
-
-## 🧑‍🏫 Instrutor e Facilitador
-
-<table>
-  <tr>
-    <td align="center"><a href="https://www.linkedin.com/in/samuel-silveriom/"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/103957897?v=4" width="100px;" alt=""/><br /><sub><b>Samuel Silvério</b></sub></a><br /><a href="https://github.com/Samuel-prata" title="Samuel Silvério">🧑‍🏫</a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/leno-rafael-85a2ab1ba/"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/73203800?v=4" width="100px;" alt=""/><br /><sub><b>Leno Rafael</b></sub></a><br /><a href="https://github.com/lenors" title="Leno Rafael">🧑‍🏫</a></td>
-  </tr>
-</table>
 
 ## 🧙‍♂️ Autor
 
@@ -156,3 +159,7 @@ Esse projeto esta sob a licença [MIT](https://github.com/hamomgs/calculation-ut
     </td>
   </tr>
 </table>
+
+## 📃 Licença
+
+Esse projeto esta sob a licença [MIT](https://github.com/hamomgs/calculation-utils/blob/main/LICENCE).
